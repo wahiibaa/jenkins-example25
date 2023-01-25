@@ -10,11 +10,11 @@
 
 
     <properties>
-        <Property>
+        
          <sonar.host.url>http://172.31.79.29:9000/</sonar.host.url>
          <sonar.login>admin</sonar.login>
          <sonar.password>admin</sonar.password>
-         </Property>
+         
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <junit.jupiter.version>5.0.0-M3</junit.jupiter.version>
