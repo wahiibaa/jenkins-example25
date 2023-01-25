@@ -69,10 +69,10 @@
     </repositories>
 
     <distributionManagement>
-        <repository>
+        <!--<repository>
             <id>myMavenRepo.write</id>
             <url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
-        </repository>
+        </repository> -->
              
         <repository>
          <id>nexus</id>
@@ -80,7 +80,7 @@
          <url>http://172.31.64.91:8081/repository/Team25releases/</url> 
          </repository>
              
-          <repository>
+        <repository>
           <id>nexus</id>
           <name>Team 25 Snapshot Nexus Repository</name>
           <url>http://3.94.95.140:8081/repository/Team25snapshot/</url> 
